@@ -79,7 +79,7 @@ ulash uchun ketma ket qadamlar:
 2. git push -u origin main
 ```
 
-![gitni ulash uchun ko'rsatmalar](https://github.com/Bunyodbek994/version_control/raw/main/git.jpg)
+![gitni ulash uchun ko'rsatmalar](git.jpg)
 
 
 # Gitni GitHubdan uzish

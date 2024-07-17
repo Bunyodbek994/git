@@ -120,7 +120,7 @@ git clone https://github.com/Bunyodbek994/test2.git
 git push origin --delete <vetka_nomii>
 ```
 
-Git VETKAlarni birlashtirish
+# Git VETKAlarni birlashtirish
 
 ```
 git merge <vetka nomi>
